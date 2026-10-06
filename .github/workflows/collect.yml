@@ -2,10 +2,9 @@ name: Collect Bengaluru Traffic Data
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
-      timezone: "Asia/Kolkata"
-
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+
 
 permissions:
   contents: write
