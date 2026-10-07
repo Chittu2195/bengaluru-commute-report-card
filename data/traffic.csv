@@ -23,3 +23,7 @@ timestamp,route,travel_time_minutes,estimated_baseline_minutes,traffic_delay_min
 2026-10-07 14:00:02,Marathahalli → Silk Board,50.38,42.37,8.02,14.22
 2026-10-07 14:00:02,KR Puram → Hebbal,48.88,48.88,0.0,15.99
 2026-10-07 14:00:02,Hebbal → KR Puram,47.92,47.92,0.0,15.08
+2026-10-07 19:55:34,Silk Board → Marathahalli,25.8,25.8,0.0,12.74
+2026-10-07 19:55:34,Marathahalli → Silk Board,28.95,28.95,0.0,14.88
+2026-10-07 19:55:34,KR Puram → Hebbal,28.52,28.52,0.0,16.53
+2026-10-07 19:55:34,Hebbal → KR Puram,31.43,31.43,0.0,15.6
