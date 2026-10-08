@@ -56,7 +56,7 @@ routes = [
 # Settings
 # -----------------------------------
 
-COLLECTIONS = 12
+COLLECTIONS = 2
 INTERVAL_SECONDS = 15 * 60
 
 file_path = "data/traffic.csv"
