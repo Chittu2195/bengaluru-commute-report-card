@@ -2,9 +2,8 @@ name: Collect Bengaluru Traffic Data
 
 on:
   schedule:
-    - cron: "7,22,37,52 * * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
-
 
 permissions:
   contents: write
@@ -14,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
